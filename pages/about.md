@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/jumbotron.html objectid="image_003" %}
+{% include feature/jumbotron.html objectid="image_006" %}
 
 {% include feature/nav-menu.html sections="Overview;About the Smelter and Mill Images" %}
 

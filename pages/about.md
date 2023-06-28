@@ -9,10 +9,11 @@ credits: true
 ---
 {% include feature/jumbotron.html objectid="image_006" %}
 
-{% include feature/nav-menu.html sections="Overview;About the Smelter and Mill Images" %}
+{% include feature/nav-menu.html sections="Overview and History;About the Smelter and Mill Images" %}
 
-## Overview
-In an effort to further document the town of his hometown of McGill, Keith Gibson has kindly contributed many historical images of the town and the Kennecott Copper Company's mining operation. Further information....
+## Overview and History
+Founded in 1908, McGill was born as a company town. Initially called the Steptoe Valley Mining & Smelter Company, the company name was later changed to the Kennecott Copper Corporation/Company. KCC provided rudimentary homes for their employees as well as shops, entertainment and sporting opportunities for the children. The Nevada Northern Railway extended its route through McGill in 1908 which caused copper production to boom. At its peak in the 1930's, McGill was home to over 3000 people. KCC recruited many immigrants to work at the mine, making McGill one of the most diverse towns in Nevada. As with most mining towns, McGill's copper reserves were eventually depleted, causing the mine to close in 1983. 
 
+Long-time residents, such as Keith McGill, have many fond memories of McGill in its heyday. Keith has kindly contributed many images of the town and the Kennecott Copper Company's mining operation. 
 ## About the Smelter and Mill Images
-In 1975 Keith Gibson's father, Earl Gibson, was General Maintenance Foreman at the mine. Earl was told to take a 5 ft high stack of 8 x 10 Glossy photos to the dump and burn them. He took them home and hid them in the family's basement and Keith found them after his father passed. Most of them were facial photos of workers which were given to surviving relatives. Keith saved the rest and eventually digitized them into the image files you see on this site. These images form the backbone of the history of the copper companies.
+In 1975 Keith Gibson's father, Earl Gibson, was General Maintenance Foreman at the copper mine. Earl was told to take a 5 ft high stack of 8 x 10 Glossy photos to the dump and burn them. He took them home and hid them in the family's basement and Keith found them after his father passed. Most of them were facial photos of workers which were given to surviving relatives. Keith saved the rest and eventually digitized them into the image files you see on this site. These images form the backbone of the history of the copper companies.
